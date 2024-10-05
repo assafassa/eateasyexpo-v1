@@ -54,9 +54,11 @@ To view the live demo of the EatEasy app, follow these steps:
 2. Open the Expo Go app on your phone.
 3. tap the link below to open the project:
 
-<a href="https://expo.dev/preview/update?message=delete%20extra%20search%20file&updateRuntimeVersion=1.0.0&createdAt=2024-10-05T11%3A51%3A46.855Z&slug=exp&projectId=e76c7c83-ed39-4724-b829-b0f7aa398ec0&group=37206d83-287b-4281-a6ee-294d010c6bf3" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/000000/iphone.png" alt="Phone Icon" style="vertical-align: middle;"/> Open EatEasy Demo
+<a href="https://expo.dev/preview/update?message=delete%20extra%20search%20file&updateRuntimeVersion=1.0.0&createdAt=2024-10-05T11%3A51%3A46.855Z&slug=exp&projectId=e76c7c83-ed39-4724-b829-b0f7aa398ec0&group=37206d83-287b-4281-a6ee-294d010c6bf3" >
+  <img src="https://img.icons8.com/ios-filled/50/000000/iphone.png" alt="Phone Icon" style="vertical-align: middle;"/> Open 
+EatEasy Demo
 </a>
+
 ---
 
 ## 🙋‍♂️ Let's Connect
