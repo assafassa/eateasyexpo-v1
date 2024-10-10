@@ -50,9 +50,7 @@ This project is a collaboration with
 
 Follow these steps to experience the live demo of the **EatEasy** app:
 
-1. **Download the Expo Go app**:
-   - [App Store (iOS)](https://apps.apple.com/us/app/expo-go/id982107779)
-   - [Google Play Store (Android)](https://play.google.com/store/apps/details?id=host.exp.exponent)
+1. **Download the Expo Go app**:in App Store or Google Play Store
 
 2. **Open the Project**: Tap the link below to launch the app in **Expo Go**.
 
