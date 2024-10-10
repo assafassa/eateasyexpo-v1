@@ -12,6 +12,7 @@ This project is a collaboration with
  <div align="center">
   <img src="https://i.imgur.com/mmAzwHf.png" alt="screenshot" width="959"/>
 </div>
+
 ---
 ## 🚀 Features
 
@@ -69,6 +70,7 @@ Follow these steps to experience the live demo of the **EatEasy** app:
     <img src="https://img.icons8.com/ios-filled/50/000000/iphone.png" alt="Phone Icon" style="vertical-align: middle;"/> 
   </a>
 </p>
+
 ---
 ## 📽️ Watch the App in Action
 
