@@ -7,7 +7,12 @@ This project is a collaboration with
   💁‍♀️ Liel 
 </a>! 🤝✨
 ---
+## 📸 Screenshots
 
+ <div align="center">
+  <img src="https://i.imgur.com/mmAzwHf.png" alt="screenshot" width="959"/>
+</div>
+---
 ## 🚀 Features
 
 - 🍲 **Recipe Discovery**: Explore a wide variety of delicious recipes.
@@ -65,6 +70,13 @@ Follow these steps to experience the live demo of the **EatEasy** app:
   </a>
 </p>
 ---
+## 📽️ Watch the App in Action
+
+Check out a quick video demo of the **EatEasy** app in action! Click the here to watch->
+<a href="https://www.canva.com/design/DAGSjbJRypY/6fDSlL1ze3VbRHsz3dUiTw/watch?utm_content=DAGSjbJRypY&utm_campaign=designshare&utm_medium=link&utm_source=editor" >
+<img src="https://img.icons8.com/ios-filled/100/FF0000/circled-play.png"  style=";width:30px ;" alt="Video"/>
+</a>
+
 
 ## 🙋‍♂️ Let's Connect
 
@@ -82,14 +94,3 @@ Follow these steps to experience the live demo of the **EatEasy** app:
 
 <hr/> 
 
-## 📽️ Watch the App in Action
-
-Check out a quick demo of the **EatEasy** app in action! Click the here to watch the video->
-<a href="https://www.canva.com/design/DAGSjbJRypY/6fDSlL1ze3VbRHsz3dUiTw/watch?utm_content=DAGSjbJRypY&utm_campaign=designshare&utm_medium=link&utm_source=editor" >
-<img src="https://img.icons8.com/ios-filled/100/FF0000/circled-play.png"  style=";width:30px ;" alt="Video"/>
-</a>
-## 📸 Screenshots
-
- <div align="center">
-  <img src="https://i.imgur.com/mmAzwHf.png" alt="screenshot" width="959"/>
-</div>
