@@ -66,7 +66,7 @@ Follow these steps to experience the live demo of the **EatEasy** app:
      - **Password**: `1234567`
 
 <p align="center">
-  <a href="https://expo.dev/preview/update?message=delete%20extra%20search%20file&updateRuntimeVersion=1.0.0&createdAt=2024-10-05T11%3A51%3A46.855Z&slug=exp&projectId=e76c7c83-ed39-4724-b829-b0f7aa398ec0&group=37206d83-287b-4281-a6ee-294d010c6bf3">
+  <a href="https://expo.dev/preview/update?message=update%20versions&updateRuntimeVersion=1.0.0&createdAt=2025-01-14T10%3A41%3A10.500Z&slug=exp&projectId=5555dc5c-7a91-42bd-824d-18b36f59707b&group=8ebd6394-2264-4e0a-8cc3-1e65b61bfab4">
     <img src="https://img.icons8.com/ios-filled/50/000000/iphone.png" alt="Phone Icon" style="vertical-align: middle;"/> 
   </a>
 </p>
