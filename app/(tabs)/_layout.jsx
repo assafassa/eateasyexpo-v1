@@ -35,6 +35,7 @@ const TabsLayout = React.memo(() => {
           tabBarStyle: {
             backgroundColor: colors.background.offwhite,
             height: 100,
+            paddingTop:20,
             alignItems: "center",
             justifyContent: "center",
           }, // Customize background color
